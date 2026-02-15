@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445583351304",
+    "project_id": "shoofi-b9bf8",
+    "storage_bucket": "shoofi-b9bf8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445583351304:android:c9607c0c8683b512f67bbd",
+        "android_client_info": {
+          "package_name": "com.example.shoo_fi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTApcVC1RyWrdCf8Wm9V6jpTHrJ7nAbvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
