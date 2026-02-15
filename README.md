@@ -1,6 +1,6 @@
 # shoo_fi
 
-A new Flutter project.
+shoo_fi is a flutter app that is used to help organizers post their events, and help users discover and book these events based on their location and prefered categories.
 
 ## Getting Started
 
